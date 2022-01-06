@@ -1,0 +1,121 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size:50px;
+    font-weight: 900;
+}
+.border-image{ 
+    border-left: 7px solid;
+border-image: linear-gradient(blue ,cyan);
+border-image-slice: 0.5;
+border-radius: 10;
+}
+.tittle-color{
+    color: sandybrown;
+}
+.first-flex{
+    display: flex;
+}
+.first-picture{
+    margin-top: 2%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding: 50px;
+    padding-top: 10px;
+    margin: 5%;   
+}
+.half-width img{
+    width: 80%;
+}
+.add-link{
+    text-decoration: none;
+    padding:12px 40px;
+    background: linear-gradient(tomato, orange);
+    margin-top: 5%;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;  
+}
+.tittle{
+    text-align: center;
+    font-weight: 900;
+}
+.three-flex{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.three-flex img{
+    width: 40%;
+  
+}
+#first-flex{
+    background-color: rgba(92, 92, 69, 0.089);
+    margin-right: 80px;
+    padding-left: 40px;
+    padding-top: 13px;
+    padding-bottom: 50px;
+    border-radius: 30px;
+}
+#secound-flex{
+    background-color: rgba(60, 106, 112, 0.274);
+    margin-right: 80px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    border-radius: 30px;
+}
+#third-flex{
+    background-color:rgba(134, 30, 134, 0.438);
+    margin-right: 30px;
+   padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    
+    border-radius: 30px;
+}
+.dev-flex{
+    display: flex;
+    padding-top: 200px;  
+   
+}
+.dev-class{
+    width: 40%;  
+    padding-right: 7%;
+    margin-right: 5%;
+    margin-left: 10%;
+ padding-left: 5;
+}
+
+.dev-class img{
+    width: 100%;
+}
+#text-size{
+    font-size: 100px;
+}
+
+.footer{
+    background-color:black;
+
+    text-align: center;
+    color: white;
+    height: 250px;
+    padding-top: 25px;
+    margin: 0;
+}
+
+.footer-copyright{
+    color: tomato;
+}
+.tittle-center{
+    text-align: center;
+}
+.image{
+    width: 100%;
+}
